@@ -6,7 +6,7 @@ but I will definitely not ask another person except the instructor. Signed: ____
 
 1. Write a line of code that will print your name.
 '''
-
+print("aidan kugley")
 
 '''
 2. Write a program that asks someone for their name and then prints their name to the screen?

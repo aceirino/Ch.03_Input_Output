@@ -13,6 +13,9 @@ In: -40  Out: ???
 
 '''
 
+fahrenheit=int(input("fahrenheit: "))
+print((fahrenheit-32)*(5/9))
+
 
 
 
