@@ -1,5 +1,2 @@
-print("May the mass times acceleration be with you!")
-a=float(input("mass: "))
-b=float(input("acceleration?: "))
-answer=(a*b)
-print(answer)
+a="May the Force be with you!"
+print(a)

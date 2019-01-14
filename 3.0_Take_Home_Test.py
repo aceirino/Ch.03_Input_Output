@@ -41,7 +41,7 @@ print(area)
 A=May the Force be with you!
 print(a)
 '''
-a=May the Force be with you!
+a="May the Force be with you!"
 print(a)
 
 
@@ -63,6 +63,12 @@ print(area)
 8. Ask a user for moles, volume and temperature of a gas and print out the pressure. PV=nRT where n is the number of moles, T is the absolute temperature, V is the
 volume, and R is the gas constant 8.3144.
 '''
+n=float(input("moles: "))
+V=float(input("volume: "))
+T=float(input("temperature: "))
+R=8.3144
+P=n*R*T/V
+print(P)
 
 '''
 9. Ask a user for an integer and then print the square root.
